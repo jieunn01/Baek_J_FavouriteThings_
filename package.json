@@ -1,0 +1,26 @@
+{
+  "name": "baek_j_favouritethings_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jieunn01/Baek_J_FavouriteThings_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jieunn01/Baek_J_FavouriteThings_/issues"
+  },
+  "homepage": "https://github.com/jieunn01/Baek_J_FavouriteThings_#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.2"
+  }
+}
