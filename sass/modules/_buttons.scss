@@ -1,2 +1,22 @@
+.buttons {
+    margin-top: 60px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 20px;
+ }
 
-  
+ .btn {
+    cursor: pointer;
+    border: none;
+    font-family: 'Playfair Display', sans-serif, Arial;
+    font-size: 24px;
+    width: 200px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    background-color: #0d2b06;
+    color: rgb(255, 204, 0);
+ }
