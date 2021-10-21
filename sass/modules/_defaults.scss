@@ -1,0 +1,42 @@
+.hidden {
+    display: none;
+}
+
+#Container {
+    margin: 0 auto;
+    width: 100%;
+    padding: 20px;
+}
+
+body {
+    font-family: 'Playfair Display', sans-serif, Arial;
+    font-size: 18px;
+    background-color: #fcf7b8;
+}
+
+.introduction
+{
+    padding: 30px;
+    height: 100%;
+    text-align: center;
+}
+.introduction h1{
+
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #0d2b06;
+}
+
+.introduction h2{
+
+    font-size: 30px;
+    margin-bottom: 50px;
+    color: #0d2b06;
+}
+
+.introduction h3{
+    
+    font-size: 20px;
+    color: rgb(227, 182, 4);
+}
