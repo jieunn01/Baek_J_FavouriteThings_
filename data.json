@@ -1,0 +1,21 @@
+{
+    "first": {
+      "img": "1.jpeg",
+      "title": "first title",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo aliquam ipsum cumque aspernatur suscipit non tempore ab excepturi itaque deleniti corporis optio veniam odio, voluptatem sunt iste iusto facilis eum.",
+      "alt": "1"
+    },
+    "second": {
+      "img": "2.jpeg",
+      "title": "second title",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure porro saepe voluptas? Molestias dolorum ratione atque mollitia magni maiores fuga in ab quam! Id, necessitatibus! Beatae sed labore mollitia tempore.",
+      "alt": "2"
+    },
+    "third": {
+      "img": "3.jpeg",
+      "title": "third title",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis natus deleniti fuga rerum saepe dolorum id itaque perspiciatis dolor ex, dicta quos expedita tempora libero sint aperiam error quibusdam ratione.",
+      "alt": "3"
+    }
+  }
+  
