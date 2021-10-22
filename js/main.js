@@ -44,6 +44,5 @@
       <p class="info__content">${data.content}</p>
     `;
   }
-
   getData();
 })();
